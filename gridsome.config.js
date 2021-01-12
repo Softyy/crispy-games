@@ -28,24 +28,7 @@ module.exports = {
             title: 'Games',
             items: [
               '/catalogue/',
-              '/catalogue/installation/',
-              '/catalogue/writing-content/',
-              '/catalogue/deploying/',
-              '/catalogue/board-games/'
-            ]
-          },
-          {
-            title: 'Online Games',
-            items: [
-              '/catalogue/settings/',
-              '/catalogue/sidebar/',
-            ]
-          },
-          {
-            title: 'Video Games',
-            items: [
-              '/catalogue/settings/',
-              '/catalogue/sidebar/',
+              '/catalogue/online-games/'
             ]
           }
         ]

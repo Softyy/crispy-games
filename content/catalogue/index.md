@@ -1,57 +1,36 @@
 ---
 description: ""
 sidebar: "catalogue"
-next: "/catalogue/installation/"
+next: "/catalogue/online-games/"
 ---
 
-# Introduction
+# Board Games
 
-Docc is a starter theme for [Gridsome](https://gridsome.org/) which is a static site generator powered by Vue. It allows you to quickly start writing your technical documentation for any kind of project.
+Here's a list of all our board games
 
-## Fast by default
+## Full List
 
-This is the catchphrase of Gridsome and true in any sense of the word. Static site generators output plain html files and have other great features like image processing and lazy-loading. After Serving the initial html, Gridsome site turn into a snappy single page application.
+- [Legendary](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
+- Wingspan
+- The Manhattan Project
+- Bomb Squad
+- Mage Knight
+- Forbidden Sky
+- Hanabi
 
-If I may quote Gridsome themselves:
+## Escape Games
 
-> Gridsome builds ultra performance into every page automatically. You get code splitting, asset optimization, progressive images, and link prefetching out of the box. With Gridsome you get almost perfect page speed scores by default.
+### Unlock!: Heroic Adventures
 
-In combination with [Netlify](https://www.netlify.com/) this theme gives you a perfect Lighthouse score out of the box.
+<a href="https://boardgamegeek.com/boardgame/266121/unlock-heroic-adventures"><img src="https://cf.geekdo-images.com/biw1DYvUdQ4-ZgIOtUDqhQ__imagepage/img/B-LfoAuHcuyvk0bxTJB0nBqBNZQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4432319.jpg" alt="Unlock!: Heroic Adventures"></a>
 
-## Simple Navigation
+### Star Wars: Unlock!
 
-Any good documentation has great navigation. This theme has support for an organized sidebar fore cross-page navigation as well as an autmatic generated table of contents for each page in your documentation.
+<a href="https://boardgamegeek.com/boardgame/312267/star-wars-unlock"><img src="https://cf.geekdo-images.com/KTa-65f1B6P4OoFg7B5qzg__imagepage/img/-Al2uJvVNSgX8AO5foZ39ebXJCk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5759223.jpg" alt="Star Wars: Unlock!"></a>
 
-## Search
+#### [Unlock!: Heroic Adventures]()
 
-The search component which is shipped with this theme, automatically indexes all headlines in your markdown pages and provides instant client side search powered by [Fuse.js](https://fusejs.io/).
+## [Unlock!: Timeless Adventures](https://boardgamegeek.com/boardgame/279613/unlock-timeless-adventures)
 
-## Dark Mode
-
-This seems to be a must have for any site in current year. Click the icon at the top of the page and try it out for yourself!
-
-## TailwindCSS
-
-This starter uses [TailwindCSS](https://tailwindcss.com/) for layout and styling. You can easily configure it by editing the `tailwind.config.js` file. [PurgeCSS](https://purgecss.com/) is included as well to keep the bundle size as low as possible and the website fast and snappy!
-
-### Changing Colors
-
-The most inportant colors are defined in the `src/layouts/Default.vue` file at the top of the `style` block via CSS variables. If you want to change the primary color to orange for example, you would simply touch that value there.
-
-```css
-:rrot {
-  --color-ui-primary: theme("colors.orange.600");
-}
-```
-
-## Make it your own
-
-Of course this is just a starter to quickly get you going. After downloading and installing you can do whatever you want with this theme. Check out the `src` folder and take a look at the components.
-
-Docc uses [TailwindCSS](https://tailwindcss.com/). Colors and spacing can easily configured. To change the accent color, you only need to touch a single line in the code.
-
-Don't like how something was designed or implemented? Just change the code and **make it your way**.
-
-### Contribute
-
-If you find any spelling mistakes or have improvements to offer, I am open to anyone who has ideas and wants to contribute to this starter theme.
+- [Unlock!: Epic Adventures](https://boardgamegeek.com/boardgame/294612/unlock-epic-adventures)
+- [Escape Tales: The Awakening](https://boardgamegeek.com/boardgame/253214/escape-tales-awakening)
