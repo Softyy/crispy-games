@@ -10,9 +10,13 @@ prev: "/catalogue/board-games/"
 
 <a href="https://www.horsepaste.com/"><img src="https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__imagepage/img/rc_Do8f5v41nWEGcwHE1eKAkIfI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2582929.jpg" alt="Codenames"></a>
 
-## Secret Hitler
+## Secret Hitler (on Backyard)
 
 <a href="https://backyard.co/"><img src="https://cf.geekdo-images.com/rAQ3hIXoH6xDcj41v9iqCg__itemrep/img/EQ1jwjZYnucHSizVlzHE8DiyEQI=/fit-in/246x300/filters:strip_icc()/pic5164305.jpg" alt="Code Names"></a>
+
+## Avalon
+
+<a href="https://avalon.fun/"><img src="https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__imagepage/img/3xVP5JSdSfFbo2c1nnZS5xxGhfI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1398895.jpg" alt="Avalon"></a>
 
 ## Spyfall
 
