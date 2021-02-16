@@ -17,12 +17,12 @@ module.exports = {
     github: process.env.URL_GITHUB || false,
     nav: {
       links: [
-        { path: '/catalogue/', title: 'catalogue' }
+        { path: '/catalogue/', title: 'Catalogue' }
       ]
     },
     sidebar: [
       {
-        name: 'catalogue',
+        name: 'Catalogue',
         sections: [
           {
             title: 'Games',
@@ -74,7 +74,7 @@ module.exports = {
 
     {
       use: '@gridsome/plugin-sitemap',
-      options: {  
+      options: {
       }
     }
 

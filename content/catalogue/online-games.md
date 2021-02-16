@@ -1,6 +1,6 @@
 ---
 description: ""
-sidebar: "catalogue"
+sidebar: "Catalogue"
 prev: "/catalogue/board-games/"
 ---
 
